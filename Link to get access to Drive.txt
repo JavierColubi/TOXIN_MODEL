@@ -1,0 +1,8 @@
+Link to get access to the Google Drive repository:
+
+https://drive.google.com/drive/folders/1F3uj_rhz0y6mvi1kyWoy4Qez4YDKh27H?usp=drive_link
+
+- You will find:
+	. Colab notebooks that were used at some point in the process although the final one is already uploaded in the GitHub.
+	. Data used
+	. Embeddings obtained from the models for each of the systems tested
