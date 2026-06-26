@@ -7,7 +7,6 @@ This repository contains the computational resources developed for the Master's 
 The repository includes:
 
 * **Google Colab notebooks** containing the complete source code used throughout the study, including data preprocessing, model training, prediction, functional annotation, and downstream analyses.
-* **Supporting scripts** required to reproduce the computational workflow.
 * **Documentation** describing the different stages of the bioinformatics pipeline.
 
 ## Additional Resources
@@ -18,11 +17,11 @@ The shared folder includes:
 
 * Complete datasets used throughout the study.
 * Figures generated for the manuscript.
-* Protein embeddings produced by each evaluated protein language model (ProtBERT, ESM-2, and SPROF-GO).
+* Protein embeddings produced by each evaluated protein language model (ProtBERT, ESM-2).
 * Additional intermediate files and prediction outputs required to reproduce the analyses.
 
 **Google Drive:**
-**[Insert Google Drive link here]**
+**[https://drive.google.com/drive/folders/1F3uj_rhz0y6mvi1kyWoy4Qez4YDKh27H?usp=drive_link]**
 
 ## Requirements
 
